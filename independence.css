@@ -1,0 +1,56 @@
+body {
+    background-color: #a0a075;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    max-width: 1500px;
+    margin: auto;
+}
+
+#main {
+    margin: 30px 180px;
+}
+
+#title {
+    font-family: "Snel Roundhand", cursive;
+    font-size: 60px;
+}
+
+#headline {
+    font-family: "Snel Roundhand", cursive;
+    font-size: 40px;
+}
+
+h3 {
+    font-family: "Snel Roundhand", cursive;
+    font-size: 30px;
+}
+
+p {
+    text-align: justify;
+}
+
+#img-div {
+    background: #a88247;
+    padding: 10px;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+#img-caption {
+    font-family: "Snel Roundhand", cursive;
+}
+
+ul {
+    text-align: justify;
+    max-width: 850px;
+    margin: 0 auto 50px auto;
+}
+
+li {
+    margin: 16px 0;
+}
